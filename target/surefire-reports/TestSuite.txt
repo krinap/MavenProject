@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 1, Errors: 0, Skipped: 1, Time elapsed: 0.919 s <<< FAILURE! - in TestSuite
+mainTest(com.testing.Testing3)  Time elapsed: 0.007 s  <<< FAILURE!
+java.lang.AssertionError: Verification Element expected [true] but found [false]
+	at com.testing.Testing3.mainTest(Testing3.java:26)
+
